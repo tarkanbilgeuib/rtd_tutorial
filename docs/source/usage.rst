@@ -32,3 +32,9 @@ For example:
 >>> lumache.get_random_ingredients()
 ['shells', 'gorgonzola', 'parsley']
 
+
+
+Testing autodoc
+---------------
+
+.. autofunction:: my_module.my_func
